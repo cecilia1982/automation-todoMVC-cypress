@@ -8,7 +8,7 @@
 
 En la terminal del visual studio code 
 
- ```npx cypress open``
+ ```npx cypress open```
 
 ## Correr los tests con npm o en modo headless
 
